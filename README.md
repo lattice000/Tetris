@@ -1,5 +1,5 @@
 # Tetris
-10 minutes coding Teris
+10 minutes coding Tetris
 
 # 需先安 python
 # pre install Python 3.13.3
