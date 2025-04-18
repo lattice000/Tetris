@@ -14,3 +14,7 @@ pip install pygame
 python bg2.py
 or
 python blockgame.py
+
+# 影片參考
+# video reference
+https://www.youtube.com/watch?v=Bav5zUgbRqs
