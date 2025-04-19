@@ -7,7 +7,7 @@
 
 # 安裝套件
 # install pygame package
-pip install pygame
+pip install pygame numpy
 
 # 執行程式
 # execute program
